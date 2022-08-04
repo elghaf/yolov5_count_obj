@@ -18,8 +18,8 @@ from datetime import datetime
 
 useIPCam = False
 
-MQTT_TOPIC = "="
-mylist = []
+#MQTT_TOPIC = "="
+#mylist = []
 mycount = []
 broker_url = "="
 broker_port = 1883
